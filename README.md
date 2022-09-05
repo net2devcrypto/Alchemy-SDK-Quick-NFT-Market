@@ -140,9 +140,12 @@ Example:
 
 <img src="https://github.com/net2devcrypto/Alchemy-SDK-Quick-NFT-Market/blob/main/env-screenshot.PNG" width="460" height="150">
 
+Save file.
+
 2- Navigate to hello.js located under Pages/API folder and update with the contract deployer wallet private key and also Alchemy API key.
 
 Update "name" with wallet private key:
+
 Update "alchemykey" with your Alchemy API Key:
 ```shell
 export default function handler(req, res) {
@@ -151,5 +154,17 @@ export default function handler(req, res) {
 alchemykey: 'ADD_ALCHEMY_API_KEY' })
 }
 ```
+Save hello.js file.
+
+## Step 8
+
+Navigate to the project and start !
+
+```shell
+npm run dev
+```
+
+Please watch tutorial video for additional information.
+Enjoy!
 
 
