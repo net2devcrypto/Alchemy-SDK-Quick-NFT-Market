@@ -136,4 +136,7 @@ file name must be:  ".env.local"
 NEXT_PUBLIC_API_SERVER='http://ADD_IP_ADDRESS_OF_THIS_SERVER:3000/api/hello'
 ```
 
+Example:
+<img src="https://github.com/net2devcrypto/Alchemy-SDK-Quick-NFT-Market/blob/main/env-screenshot.PNG" width="360" height="100">
+
 
