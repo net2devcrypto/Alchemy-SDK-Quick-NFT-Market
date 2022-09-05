@@ -126,7 +126,7 @@ Save the configuration.js file
 
 ## Step 7
 
-Create a new env file in the project root folder and add the server's IP in
+1- Create a new env file in the project root folder and add the server's IP in
 the NEXT_PUBLIC_API_SERVER entry. Make sure its located in the project root
 folder. Update the url with your server's IP.
 
@@ -139,5 +139,17 @@ NEXT_PUBLIC_API_SERVER='http://ADD_IP_ADDRESS_OF_THIS_SERVER:3000/api/hello'
 Example:
 
 <img src="https://github.com/net2devcrypto/Alchemy-SDK-Quick-NFT-Market/blob/main/env-screenshot.PNG" width="460" height="150">
+
+2- Navigate to hello.js located under Pages/API folder and update with the contract deployer wallet private key and also Alchemy API key.
+
+Update "name" with wallet private key:
+Update "alchemykey" with your Alchemy API Key:
+```shell
+export default function handler(req, res) {
+  res.status(200).json({ 
+    name: 'ADD_CONTRACT_OWNER_WALLET_PRIVATE_KEY',
+alchemykey: 'ADD_ALCHEMY_API_KEY' })
+}
+```
 
 
