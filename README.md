@@ -11,7 +11,7 @@ Be sure to watch my Youtube video so you can learn and follow along!
 
 Be sure to watch my Youtube video so you can learn and follow along!
 
-<a href="https://www.youtube.com/watch?v=wxeA8NKPNUA&t=539s" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a> 
+<a href="https://youtu.be/zD70q-A5YN0" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a> 
 
 ## Step 1
 
