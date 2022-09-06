@@ -17,6 +17,8 @@ Be sure to watch my Youtube video so you can learn and follow along!
 
 Create your Alchemy Account and create an app for Polygon Mumbai then copy your API key and HTTP API Url.
 
+https://alchemy.com/?a=75f66fc89b
+
 ## Step 2
 
 1-Create a new NextJS Application:
